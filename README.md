@@ -5,3 +5,4 @@ neglect-yp
 ![heart](https://img.shields.io/badge/heart-broken-critical)
 ![dependencies](https://img.shields.io/badge/dependencies-not_found-important)
 ![motivation](https://img.shields.io/badge/motivation-2%25-inactive)
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
